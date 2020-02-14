@@ -18,4 +18,6 @@ Sample outputs are provided in results/sequence_plot.html
 
 Documentation
 -------------
-Sphinx generated documentation index is located in 'docs/_build/html/index.html'.
+The HTML documentation is generated through Sphinx using the following commands
+- cd docs
+- make html
