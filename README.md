@@ -14,6 +14,7 @@ Quick Start
 
 Run solutions in process/task_a, task_b etc.
 
+Sample outputs are provided in results/sequence_plot.html
 
 Documentation
 -------------
