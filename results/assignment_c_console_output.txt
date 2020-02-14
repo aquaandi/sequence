@@ -1,0 +1,14 @@
+C:\Users\Acua\PycharmProjects\sequence\venv\Scripts\python.exe C:/Users/Acua/PycharmProjects/sequence/process/task_c.py
+Commencing assignment c)
+
+Python compiled code:
+Single Thread processing on Ryzen 3700x 8-core took: 0:00:24.027912
+Parallel processing on Ryzen 3700x 8-core took: 0:00:03.719384
+Parallel speedup factor 6.46
+
+C compiled code:
+Single Thread processing on Ryzen 3700x 8-core took: 0:00:00.875805
+Parallel processing on Ryzen 3700x 8-core took: 0:00:01.285170
+Parallel speedup factor 0.681
+
+Process finished with exit code 0
