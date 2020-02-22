@@ -21,9 +21,6 @@ def progress_sequence(c: int):
     # c is uneven
     elif c % 2 == 1:
         return c * 3 + 1
-    # c is not an int
-    else:
-        return c
 
 
 def get_to_one(m: int):
